@@ -1,4 +1,4 @@
-## Basketball National Academy
+## Laravel 9 + Vue2 Cli - Web site ready
 Web site - Laravel 9 + VueJs2
 
 ## WEB SITE - public part
