@@ -1,0 +1,1 @@
+inner page - hero section
